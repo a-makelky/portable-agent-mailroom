@@ -22,6 +22,8 @@ The receipt is stored before an agent is notified. If the agent, webhook, or pla
 
 No. The mailroom works without Cursor or another continuously running agent. It will still receive, validate, and store messages.
 
+The guided setup proves that no-clerk path first. It does not make a hosted agent part of the foundation.
+
 A clerk is needed only for last-mile work such as interpreting a message, writing an intake file, opening a pull request, or creating a task. The skill offers three modes:
 
 1. No clerk yet. Review stored receipts manually.
